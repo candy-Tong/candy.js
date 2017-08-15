@@ -1,21 +1,12 @@
 {
-  "name": "candy.js",
+  "name": "candy",
   "version": "0.0.1",
   "description": "A new module in npm created by candy for test",
   "preferGlobal": true,
   "main": "index.js",
-  "author": "candytong",
-  "keywords": [
-    "candy"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/candy-Tong/candy.js.git"
-  },
-  "dependencies": {
-    "commander": "0.5.2"
-  },
+  "author": "candyTong",
+  "keywords": ["candy"],
   "engines": {
-    "node": "*"
+    "node":"*"
   }
 }
