@@ -1,0 +1,12 @@
+{
+  "name": "candy",
+  "version": "0.0.1",
+  "description": "A new module in npm created by candy for test",
+  "preferGlobal": true,
+  "main": "index.js",
+  "author": "candyTong",
+  "keywords": ["candy"],
+  "engines": {
+    "node":"*"
+  }
+}
